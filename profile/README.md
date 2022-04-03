@@ -1,10 +1,14 @@
-<!--
+## Skeld.gg
+Basic About me, also image
 
-**Here are some ideas to get you started:**
+### ❓ Who are we?
+Some About me 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🔨 How can you help us?
+Any type of support help us continiue the development! You can help by letting us know through issues anything wrong, pull requests also help if there are mistakes in code.
+
+### 📁 Useful resources
+- [exmaple](https://github.com/skeldgg)
+
+### 🤣 Fun fact
+Some Fun Fact or Joke
